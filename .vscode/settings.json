@@ -1,0 +1,30 @@
+{
+  // Set the ruler/guide at 80 characters
+  "editor.rulers": [80],
+  
+  // Enable word wrap at 80 characters
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 80,
+  
+  // Format on save
+  "editor.formatOnSave": true,
+  
+  // Set print width for formatters to 80 characters
+  "prettier.printWidth": 80,
+  
+  // JavaScript/TypeScript specific settings
+  "javascript.format.printWidth": 80,
+  "typescript.format.printWidth": 80,
+  
+  // HTML formatting
+  "html.format.wrapLineLength": 80,
+  "html.format.wrapAttributes": "force-aligned",
+  
+  // CSS formatting
+  "css.format.wrapLineLength": 80,
+  
+  // General editor settings for consistent formatting
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false
+}
